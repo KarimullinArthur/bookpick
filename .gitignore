@@ -1,0 +1,5 @@
+venv
+*.pyc
+bookpicker.egg-info
+build
+dist

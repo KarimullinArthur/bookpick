@@ -60,4 +60,3 @@ def main(stdscr):
             break
 
 curses.wrapper(main)
-
