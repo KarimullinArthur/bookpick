@@ -58,5 +58,3 @@ def main(stdscr):
                 selection = 0
         elif key in (ord('q'), 27):
             break
-
-curses.wrapper(main)
