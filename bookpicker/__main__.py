@@ -1,6 +1,6 @@
 import curses
 
-import bookpicker
+from . import bookpicker
 
 
 def main():
